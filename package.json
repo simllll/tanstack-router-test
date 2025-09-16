@@ -11,7 +11,9 @@
     "debug": "node --inspect-brk server"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.89.0",
     "@tanstack/react-router": "^1.131.44",
+    "@tanstack/react-router-ssr-query": "^1.131.44",
     "@tanstack/router-plugin": "^1.131.44",
     "compression": "^1.8.0",
     "express": "^4.21.2",
